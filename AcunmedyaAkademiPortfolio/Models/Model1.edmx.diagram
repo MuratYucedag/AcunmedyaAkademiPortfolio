@@ -12,6 +12,9 @@
         <EntityTypeShape EntityType="DbAcunmedyaAkademi1Model.TblTestimonial" Width="1.5" PointX="4.75" PointY="4.75" IsExpanded="true" />
         <EntityTypeShape EntityType="DbAcunmedyaAkademi1Model.TblExperience" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
         <AssociationConnector Association="DbAcunmedyaAkademi1Model.FK_TblProject_TblCategory1" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="DbAcunmedyaAkademi1Model.TblEducation" Width="1.5" PointX="0.75" PointY="7.75" />
+        <EntityTypeShape EntityType="DbAcunmedyaAkademi1Model.TblMessage" Width="1.5" PointX="2.75" PointY="7.75" />
+        <EntityTypeShape EntityType="DbAcunmedyaAkademi1Model.TblSkill" Width="1.5" PointX="7.75" PointY="3.75" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

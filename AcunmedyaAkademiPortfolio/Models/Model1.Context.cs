@@ -31,5 +31,8 @@ namespace AcunmedyaAkademiPortfolio.Models
         public virtual DbSet<TblService> TblService { get; set; }
         public virtual DbSet<TblTestimonial> TblTestimonial { get; set; }
         public virtual DbSet<TblExperience> TblExperience { get; set; }
+        public virtual DbSet<TblEducation> TblEducation { get; set; }
+        public virtual DbSet<TblMessage> TblMessage { get; set; }
+        public virtual DbSet<TblSkill> TblSkill { get; set; }
     }
 }
